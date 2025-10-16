@@ -1,7 +1,0 @@
-<hr>
-<form action="test_only_reset_all" method="post">
-<input type="submit" name="test_only_reset_all" value="Zresetuj wszystko">
-</form>
- 
-</body>
-</html>
